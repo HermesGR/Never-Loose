@@ -7,5 +7,5 @@ plugin://plugin.video.youtube/?action=play_video&videoid=
 #EXTINF:1, [B][COLOR red](S)AUSTRALIA: NPL Tasmania[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S)Hobart Zebras-Olympia Warriors Tip=1(2.50)[/COLOR]
+#EXTINF:1, [COLOR blue](S)Hobart Zebras vs Olympia Warriors Tip = 1 (2.50)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
