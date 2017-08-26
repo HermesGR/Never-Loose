@@ -4,8 +4,7 @@
 #EXTINF:1, [B][COLOR red]Never Loose Tip of The Day[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S)CRYSTAL PALACE vs SWANSEA = 1 (Odd 2.05)[/COLOR]
+#EXTINF:1, [COLOR blue]- - -[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S)AALBORG vs AARHUS = 1 (Odd 2.55)[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=
+
