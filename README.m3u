@@ -4,7 +4,8 @@
 #EXTINF:1, [B][COLOR red]Never Loose Tip of The Day[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue]- - -[/COLOR]
+#EXTINF:1, [COLOR blue](B)GREECE vs FRANCE = 2 (Odd 1.55)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-
+#EXTINF:1, [COLOR blue](B)RUSSIA vs SERBIA = 1 (Odd 3.30)[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
