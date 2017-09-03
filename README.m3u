@@ -4,8 +4,8 @@
 #EXTINF:1, [B][COLOR red]Never Loose Tip of The Day[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](B)FINLAND vs POLLAND = 1(Odd 1.65)[/COLOR]
+#EXTINF:1, [COLOR blue](S)PORTSMOUTH vs ROTHERHAM = 1(Odd 2.00)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](B)LITHUANIA vs ITALY = 1 (Odd 1.40)[/COLOR]
+#EXTINF:1, [COLOR blue](S)ESTHONIA vs CYPRUS = G/G(Odd 2.20)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
