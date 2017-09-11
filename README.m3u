@@ -4,11 +4,6 @@
 #EXTINF:1, [B][COLOR red]Never Loose Tip of The Day[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S)ARMINIA BIELEFELD vs DUISBURG = 1 (Odd 2.10)[/COLOR]
+#EXTINF:1, [COLOR blue]- - - - -[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S)ASTON VILLA vs BRENTFORD = 1 (Odd 2.00)[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1, [COLOR blue](S)LEVADIAKOS vs PLATANIAS = 1 (Odd 2.25)[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=
