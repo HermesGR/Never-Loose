@@ -4,6 +4,6 @@
 #EXTINF:1, [B][COLOR red]Never Loose Tip of The Day[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S) Swansea vs Brighton  = 1 (Odd 2.40)[/COLOR]
+#EXTINF:1, [COLOR blue]   
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
