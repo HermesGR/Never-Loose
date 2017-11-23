@@ -4,6 +4,5 @@
 #EXTINF:1, [B][COLOR red]Never Loose Tip of The Day[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S)CSKA Moscow vs Benfica = 1 (Odd 2.10)[/COLOR]
+#EXTINF:1, [COLOR blue](S)Braga vs Hoffenheim = 1 (Odd 3.00)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
-
