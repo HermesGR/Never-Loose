@@ -4,8 +4,8 @@
 #EXTINF:1, [B][COLOR red]Never Loose Tip of The Day[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S-RUSSIA) Akhmat Grozny vs Ufa = 1 (Odd 1.85)[/COLOR]
+#EXTINF:1, [COLOR blue](S-FRANCE) Bordeaux vs St Etienne = 1 (Odd 1.85)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S-SPAIN) Cadiz CF vs Valladolid = 1 (Odd 2.45)[/COLOR]
+#EXTINF:1, [COLOR blue](S-ENGLAND) Derby vs Ipswich = 1 (Odd 1.70)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
